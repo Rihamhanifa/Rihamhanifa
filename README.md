@@ -1,11 +1,5 @@
 # 👋 Hey there! I'm Riham Ahamed
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rihamhanifa&label=Profile%20Views&color=blue&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/Rihamhanifa?label=Followers&style=flat-square)
-![Repo Stars](https://img.shields.io/github/stars/Rihamhanifa?label=Stars&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Rihamhanifa/your-repo-name?style=flat-square)
-
----
 
 Welcome to my GitHub! I'm an aspiring **IT professional**, student, and part-time freelancer passionate about solving problems through code and exploring the intersection of **Cybersecurity** and **Artificial Intelligence**.
 
